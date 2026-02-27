@@ -39,7 +39,7 @@ The goal of this analysis was to determine which variables hold the most predict
 
 ## 🚀 How to Run
 
-1. Clone this repository: `git clone [your-repo-link]`
+1. Clone this repository: `git clone https://github.com/Jibex-Banks/Student-Score-Prediction`
 2. Install the requirements: `pip install -r requirements.txt`
 3. Open `analysis.ipynb` to view the data processing and model experimentation.
 
